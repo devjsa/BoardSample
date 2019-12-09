@@ -1,0 +1,25 @@
+server.port : 8888
+spring.mvc.view :
+ prefix : /WEB-INF/jsp/
+ suffix : .jsp
+spring.devtools.livereload.enabled : true
+spring.resources.chain.enabled : true
+spring.mvc.static-path-pattern : /static/**
+spring.datasource :
+ url : jdbc:mysql://localhost/board?serverTimezone=UTC
+ username : board
+ password: boardboard
+ driver-class-name: com.mysql.jdbc.Driver
+spring.output.ansi.enabled : always
+logging :
+ file.path : logs
+ level:
+  logger : INFO
+  org.springframework : ERROR
+  com.example : DEBUG
+  com.example.board.mapper : trace
+ pattern:
+  console: "%d{HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n"
+  file: "baord_%d %p %c{1.} [%t] %m%n"
+mybatis.type-aliases-package : com.example.board.vo
+ 

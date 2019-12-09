@@ -1,0 +1,232 @@
+baord_2019-12-04 11:33:15,825 INFO com.example.board.DemoApplication [restartedMain] Starting DemoApplication on SUNAui-MacBookPro.local with PID 1602 (/Users/jj/Documents/works/board/target/classes started by jj in /Users/jj/Documents/works/board)
+baord_2019-12-04 11:33:15,828 DEBUG com.example.board.DemoApplication [restartedMain] Running with Spring Boot v2.2.1.RELEASE, Spring v5.2.1.RELEASE
+baord_2019-12-04 11:33:15,829 INFO com.example.board.DemoApplication [restartedMain] No active profile set, falling back to default profiles: default
+baord_2019-12-04 11:33:17,020 INFO org.apache.catalina.core.StandardService [restartedMain] Starting service [Tomcat]
+baord_2019-12-04 11:33:17,021 INFO org.apache.catalina.core.StandardEngine [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.27]
+baord_2019-12-04 11:33:17,174 INFO org.apache.jasper.servlet.TldScanner [restartedMain] At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+baord_2019-12-04 11:33:17,176 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [restartedMain] Initializing Spring embedded WebApplicationContext
+baord_2019-12-04 11:33:17,972 INFO com.example.board.DemoApplication [restartedMain] Started DemoApplication in 2.492 seconds (JVM running for 3.204)
+baord_2019-12-04 11:38:14,475 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [http-nio-8888-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+baord_2019-12-04 11:38:14,739 INFO com.example.board.controller.KakaoController [http-nio-8888-exec-1] responseCode : 200
+baord_2019-12-04 11:38:14,793 INFO com.example.board.controller.KakaoController [http-nio-8888-exec-1] zVb-fD8ZqN9qmBlXfz10xKMsy4fBza3mNgRsxAo9eCIAAAFuzsW4yQ
+baord_2019-12-04 11:38:14,836 INFO com.example.board.controller.KakaoController [http-nio-8888-exec-1] responseCode : 200
+baord_2019-12-04 11:38:24,267 INFO com.example.board.controller.KakaoController [http-nio-8888-exec-2] responseCode : 200
+baord_2019-12-04 11:38:24,269 INFO com.example.board.controller.KakaoController [http-nio-8888-exec-2] SKAXcUQrvHfm5LcG1wuux2qq57cHuY3v3K9SgQo9dNsAAAFuzsXeAw
+baord_2019-12-04 11:38:24,288 INFO com.example.board.controller.KakaoController [http-nio-8888-exec-2] responseCode : 200
+baord_2019-12-04 11:38:24,513 INFO com.example.board.controller.LoginController [http-nio-8888-exec-4] false
+baord_2019-12-04 11:38:50,754 INFO com.example.board.DemoApplication [restartedMain] Starting DemoApplication on SUNAui-MacBookPro.local with PID 1602 (/Users/jj/Documents/works/board/target/classes started by jj in /Users/jj/Documents/works/board)
+baord_2019-12-04 11:38:50,754 DEBUG com.example.board.DemoApplication [restartedMain] Running with Spring Boot v2.2.1.RELEASE, Spring v5.2.1.RELEASE
+baord_2019-12-04 11:38:50,755 INFO com.example.board.DemoApplication [restartedMain] No active profile set, falling back to default profiles: default
+baord_2019-12-04 11:38:50,976 WARN org.apache.tomcat.util.modeler.Registry [restartedMain] The MBean registry cannot be disabled because it has already been initialised
+baord_2019-12-04 11:38:50,987 INFO org.apache.catalina.core.StandardService [restartedMain] Starting service [Tomcat]
+baord_2019-12-04 11:38:50,987 INFO org.apache.catalina.core.StandardEngine [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.27]
+baord_2019-12-04 11:38:51,023 INFO org.apache.jasper.servlet.TldScanner [restartedMain] At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+baord_2019-12-04 11:38:51,023 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [restartedMain] Initializing Spring embedded WebApplicationContext
+baord_2019-12-04 11:38:51,275 INFO com.example.board.DemoApplication [restartedMain] Started DemoApplication in 0.776 seconds (JVM running for 336.501)
+baord_2019-12-04 11:55:48,939 INFO com.example.board.DemoApplication [restartedMain] Starting DemoApplication on SUNAui-MacBookPro.local with PID 1602 (/Users/jj/Documents/works/board/target/classes started by jj in /Users/jj/Documents/works/board)
+baord_2019-12-04 11:55:48,939 DEBUG com.example.board.DemoApplication [restartedMain] Running with Spring Boot v2.2.1.RELEASE, Spring v5.2.1.RELEASE
+baord_2019-12-04 11:55:48,939 INFO com.example.board.DemoApplication [restartedMain] No active profile set, falling back to default profiles: default
+baord_2019-12-04 11:55:49,164 WARN org.apache.tomcat.util.modeler.Registry [restartedMain] The MBean registry cannot be disabled because it has already been initialised
+baord_2019-12-04 11:55:49,177 INFO org.apache.catalina.core.StandardService [restartedMain] Starting service [Tomcat]
+baord_2019-12-04 11:55:49,177 INFO org.apache.catalina.core.StandardEngine [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.27]
+baord_2019-12-04 11:55:49,215 INFO org.apache.jasper.servlet.TldScanner [restartedMain] At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+baord_2019-12-04 11:55:49,215 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [restartedMain] Initializing Spring embedded WebApplicationContext
+baord_2019-12-04 11:55:49,394 INFO com.example.board.DemoApplication [restartedMain] Started DemoApplication in 0.48 seconds (JVM running for 1354.601)
+baord_2019-12-04 11:57:34,873 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [http-nio-8888-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+baord_2019-12-04 11:57:34,928 INFO com.example.board.controller.KakaoController [http-nio-8888-exec-1] responseCode : 200
+baord_2019-12-04 11:57:34,932 INFO com.example.board.controller.KakaoController [http-nio-8888-exec-1] NhWRE75b0OnneuDjo8THDpG2_rGQ48FTOj_CCQopyNoAAAFuztdsyQ
+baord_2019-12-04 11:57:34,980 INFO com.example.board.controller.KakaoController [http-nio-8888-exec-1] responseCode : 200
+baord_2019-12-04 11:57:38,020 INFO com.example.board.controller.KakaoController [http-nio-8888-exec-2] responseCode : 200
+baord_2019-12-04 11:57:38,022 INFO com.example.board.controller.KakaoController [http-nio-8888-exec-2] 6kePlaM6rzn4cVpzjSOuxbMdS78LU0All9_I-QopyNoAAAFuztd43Q
+baord_2019-12-04 11:57:38,039 INFO com.example.board.controller.KakaoController [http-nio-8888-exec-2] responseCode : 200
+baord_2019-12-04 11:57:38,112 INFO com.example.board.controller.LoginController [http-nio-8888-exec-4] false
+baord_2019-12-04 11:58:03,223 INFO com.example.board.controller.KakaoController [http-nio-8888-exec-5] responseCode : 400
+baord_2019-12-04 11:58:03,374 INFO com.example.board.controller.LoginController [http-nio-8888-exec-7] false
+baord_2019-12-04 11:58:09,683 INFO com.example.board.controller.KakaoController [http-nio-8888-exec-8] responseCode : 200
+baord_2019-12-04 11:58:09,685 INFO com.example.board.controller.KakaoController [http-nio-8888-exec-8] WaHG-maxpJF09lIwDW0JbosyDiBGfPeyanG7IQopdbMAAAFuztf0iw
+baord_2019-12-04 11:58:09,726 INFO com.example.board.controller.KakaoController [http-nio-8888-exec-8] responseCode : 200
+baord_2019-12-04 11:58:10,299 INFO com.example.board.controller.KakaoController [http-nio-8888-exec-9] responseCode : 200
+baord_2019-12-04 11:58:10,300 INFO com.example.board.controller.KakaoController [http-nio-8888-exec-9] LmM2XuFVr0H7nJZApZ6IWA_dTP-EiGD-pEsWlAopdbMAAAFuztf28g
+baord_2019-12-04 11:58:10,328 INFO com.example.board.controller.KakaoController [http-nio-8888-exec-9] responseCode : 200
+baord_2019-12-04 11:58:10,406 INFO com.example.board.controller.LoginController [http-nio-8888-exec-1] false
+baord_2019-12-04 12:02:35,711 INFO com.example.board.DemoApplication [restartedMain] Starting DemoApplication on SUNAui-MacBookPro.local with PID 1602 (/Users/jj/Documents/works/board/target/classes started by jj in /Users/jj/Documents/works/board)
+baord_2019-12-04 12:02:35,712 DEBUG com.example.board.DemoApplication [restartedMain] Running with Spring Boot v2.2.1.RELEASE, Spring v5.2.1.RELEASE
+baord_2019-12-04 12:02:35,712 INFO com.example.board.DemoApplication [restartedMain] No active profile set, falling back to default profiles: default
+baord_2019-12-04 12:02:35,903 WARN org.apache.tomcat.util.modeler.Registry [restartedMain] The MBean registry cannot be disabled because it has already been initialised
+baord_2019-12-04 12:02:35,915 INFO org.apache.catalina.core.StandardService [restartedMain] Starting service [Tomcat]
+baord_2019-12-04 12:02:35,915 INFO org.apache.catalina.core.StandardEngine [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.27]
+baord_2019-12-04 12:02:35,948 INFO org.apache.jasper.servlet.TldScanner [restartedMain] At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+baord_2019-12-04 12:02:35,948 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [restartedMain] Initializing Spring embedded WebApplicationContext
+baord_2019-12-04 12:02:36,112 INFO com.example.board.DemoApplication [restartedMain] Started DemoApplication in 0.672 seconds (JVM running for 1761.312)
+baord_2019-12-04 12:02:45,403 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [http-nio-8888-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+baord_2019-12-04 12:02:45,458 INFO com.example.board.controller.KakaoController [http-nio-8888-exec-1] getToken responseCode : 200
+baord_2019-12-04 12:02:45,462 INFO com.example.board.controller.KakaoController [http-nio-8888-exec-1] tHo74DfuKAHlcldZaqeTB7F8BI5__WvJ_4zFiAorDNMAAAFuztwpyQ
+baord_2019-12-04 12:02:45,509 INFO com.example.board.controller.KakaoController [http-nio-8888-exec-1] getUserInfo responseCode : 200
+baord_2019-12-04 12:02:45,944 INFO com.example.board.controller.LoginController [http-nio-8888-exec-3] false
+baord_2019-12-04 12:02:50,247 INFO com.example.board.controller.KakaoController [http-nio-8888-exec-4] getToken responseCode : 200
+baord_2019-12-04 12:02:50,252 INFO com.example.board.controller.KakaoController [http-nio-8888-exec-4] Pn9WeG4iNkbCwQLVnibXTtALfRlNYdUAMqpP2QorDNMAAAFuztw8fg
+baord_2019-12-04 12:02:50,269 INFO com.example.board.controller.KakaoController [http-nio-8888-exec-4] getUserInfo responseCode : 200
+baord_2019-12-04 12:02:50,468 INFO com.example.board.controller.LoginController [http-nio-8888-exec-6] false
+baord_2019-12-04 12:10:34,158 INFO com.example.board.DemoApplication [restartedMain] Starting DemoApplication on SUNAui-MacBookPro.local with PID 1602 (/Users/jj/Documents/works/board/target/classes started by jj in /Users/jj/Documents/works/board)
+baord_2019-12-04 12:10:34,158 DEBUG com.example.board.DemoApplication [restartedMain] Running with Spring Boot v2.2.1.RELEASE, Spring v5.2.1.RELEASE
+baord_2019-12-04 12:10:34,158 INFO com.example.board.DemoApplication [restartedMain] No active profile set, falling back to default profiles: default
+baord_2019-12-04 12:10:34,359 WARN org.apache.tomcat.util.modeler.Registry [restartedMain] The MBean registry cannot be disabled because it has already been initialised
+baord_2019-12-04 12:10:34,371 INFO org.apache.catalina.core.StandardService [restartedMain] Starting service [Tomcat]
+baord_2019-12-04 12:10:34,371 INFO org.apache.catalina.core.StandardEngine [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.27]
+baord_2019-12-04 12:10:34,399 INFO org.apache.jasper.servlet.TldScanner [restartedMain] At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+baord_2019-12-04 12:10:34,400 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [restartedMain] Initializing Spring embedded WebApplicationContext
+baord_2019-12-04 12:10:34,555 INFO com.example.board.DemoApplication [restartedMain] Started DemoApplication in 0.733 seconds (JVM running for 2239.747)
+baord_2019-12-04 12:10:42,979 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [http-nio-8888-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+baord_2019-12-04 12:10:43,028 INFO com.example.board.controller.KakaoController [http-nio-8888-exec-1] getToken responseCode : 401
+baord_2019-12-04 12:10:43,958 INFO com.example.board.controller.LoginController [http-nio-8888-exec-3] false
+baord_2019-12-04 12:11:43,696 INFO com.example.board.controller.KakaoController [http-nio-8888-exec-4] getToken responseCode : 200
+baord_2019-12-04 12:11:43,699 INFO com.example.board.controller.KakaoController [http-nio-8888-exec-4] 0gFdVMMxv2XW4lF2hFr5LS-ALw3fjl25ku0BlwoqAvUAAAFuzuRgSg
+baord_2019-12-04 12:11:43,749 INFO com.example.board.controller.KakaoController [http-nio-8888-exec-4] getUserInfo responseCode : 200
+baord_2019-12-04 12:11:44,047 INFO com.example.board.controller.LoginController [http-nio-8888-exec-6] false
+baord_2019-12-04 17:06:14,808 INFO com.example.board.DemoApplication [restartedMain] Starting DemoApplication on SUNAui-MacBookPro.local with PID 1602 (/Users/jj/Documents/works/board/target/classes started by jj in /Users/jj/Documents/works/board)
+baord_2019-12-04 17:06:14,808 DEBUG com.example.board.DemoApplication [restartedMain] Running with Spring Boot v2.2.1.RELEASE, Spring v5.2.1.RELEASE
+baord_2019-12-04 17:06:14,809 INFO com.example.board.DemoApplication [restartedMain] No active profile set, falling back to default profiles: default
+baord_2019-12-04 17:06:15,023 WARN org.apache.tomcat.util.modeler.Registry [restartedMain] The MBean registry cannot be disabled because it has already been initialised
+baord_2019-12-04 17:06:15,037 INFO org.apache.catalina.core.StandardService [restartedMain] Starting service [Tomcat]
+baord_2019-12-04 17:06:15,037 INFO org.apache.catalina.core.StandardEngine [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.27]
+baord_2019-12-04 17:06:15,068 INFO org.apache.jasper.servlet.TldScanner [restartedMain] At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+baord_2019-12-04 17:06:15,069 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [restartedMain] Initializing Spring embedded WebApplicationContext
+baord_2019-12-04 17:06:15,139 INFO org.apache.catalina.core.StandardService [restartedMain] Stopping service [Tomcat]
+baord_2019-12-04 17:06:15,155 ERROR org.springframework.boot.SpringApplication [restartedMain] Application run failed
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'springSecurityFilterChain' defined in class path resource [org/springframework/security/config/annotation/web/configuration/WebSecurityConfiguration.class]: Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [javax.servlet.Filter]: Factory method 'springSecurityFilterChain' threw exception; nested exception is java.lang.Error: Unresolved compilation problem: 
+	Syntax error on token ""/user/password/find"", delete this token
+
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiate(ConstructorResolver.java:645) ~[spring-beans-5.2.1.RELEASE.jar:5.2.1.RELEASE]
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiateUsingFactoryMethod(ConstructorResolver.java:475) ~[spring-beans-5.2.1.RELEASE.jar:5.2.1.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateUsingFactoryMethod(AbstractAutowireCapableBeanFactory.java:1338) ~[spring-beans-5.2.1.RELEASE.jar:5.2.1.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1177) ~[spring-beans-5.2.1.RELEASE.jar:5.2.1.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:557) ~[spring-beans-5.2.1.RELEASE.jar:5.2.1.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:517) ~[spring-beans-5.2.1.RELEASE.jar:5.2.1.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:323) ~[spring-beans-5.2.1.RELEASE.jar:5.2.1.RELEASE]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:222) ~[spring-beans-5.2.1.RELEASE.jar:5.2.1.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:321) ~[spring-beans-5.2.1.RELEASE.jar:5.2.1.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:202) ~[spring-beans-5.2.1.RELEASE.jar:5.2.1.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:310) ~[spring-beans-5.2.1.RELEASE.jar:5.2.1.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:202) ~[spring-beans-5.2.1.RELEASE.jar:5.2.1.RELEASE]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:879) ~[spring-beans-5.2.1.RELEASE.jar:5.2.1.RELEASE]
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:878) ~[spring-context-5.2.1.RELEASE.jar:5.2.1.RELEASE]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:550) ~[spring-context-5.2.1.RELEASE.jar:5.2.1.RELEASE]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:141) ~[spring-boot-2.2.1.RELEASE.jar:2.2.1.RELEASE]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:747) [spring-boot-2.2.1.RELEASE.jar:2.2.1.RELEASE]
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:397) [spring-boot-2.2.1.RELEASE.jar:2.2.1.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:315) [spring-boot-2.2.1.RELEASE.jar:2.2.1.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1226) [spring-boot-2.2.1.RELEASE.jar:2.2.1.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1215) [spring-boot-2.2.1.RELEASE.jar:2.2.1.RELEASE]
+	at com.example.board.DemoApplication.main(DemoApplication.java:10) [classes/:na]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.8.0_221]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[na:1.8.0_221]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:1.8.0_221]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[na:1.8.0_221]
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:49) [spring-boot-devtools-2.2.1.RELEASE.jar:2.2.1.RELEASE]
+Caused by: org.springframework.beans.BeanInstantiationException: Failed to instantiate [javax.servlet.Filter]: Factory method 'springSecurityFilterChain' threw exception; nested exception is java.lang.Error: Unresolved compilation problem: 
+	Syntax error on token ""/user/password/find"", delete this token
+
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:185) ~[spring-beans-5.2.1.RELEASE.jar:5.2.1.RELEASE]
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiate(ConstructorResolver.java:640) ~[spring-beans-5.2.1.RELEASE.jar:5.2.1.RELEASE]
+	... 26 common frames omitted
+Caused by: java.lang.Error: Unresolved compilation problem: 
+	Syntax error on token ""/user/password/find"", delete this token
+
+	at com.example.board.config.SecurityConfig.configure(SecurityConfig.java:43) ~[classes/:na]
+	at org.springframework.security.config.annotation.web.configuration.WebSecurityConfigurerAdapter.configure(WebSecurityConfigurerAdapter.java:92) ~[spring-security-config-5.2.1.RELEASE.jar:5.2.1.RELEASE]
+	at com.example.board.config.SecurityConfig$$EnhancerBySpringCGLIB$$9e45acbd.configure(<generated>) ~[classes/:na]
+	at org.springframework.security.config.annotation.AbstractConfiguredSecurityBuilder.configure(AbstractConfiguredSecurityBuilder.java:383) ~[spring-security-config-5.2.1.RELEASE.jar:5.2.1.RELEASE]
+	at org.springframework.security.config.annotation.AbstractConfiguredSecurityBuilder.doBuild(AbstractConfiguredSecurityBuilder.java:329) ~[spring-security-config-5.2.1.RELEASE.jar:5.2.1.RELEASE]
+	at org.springframework.security.config.annotation.AbstractSecurityBuilder.build(AbstractSecurityBuilder.java:41) ~[spring-security-config-5.2.1.RELEASE.jar:5.2.1.RELEASE]
+	at org.springframework.security.config.annotation.web.configuration.WebSecurityConfiguration.springSecurityFilterChain(WebSecurityConfiguration.java:104) ~[spring-security-config-5.2.1.RELEASE.jar:5.2.1.RELEASE]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.8.0_221]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[na:1.8.0_221]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:1.8.0_221]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[na:1.8.0_221]
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:154) ~[spring-beans-5.2.1.RELEASE.jar:5.2.1.RELEASE]
+	... 27 common frames omitted
+baord_2019-12-04 19:08:04,583 INFO com.example.board.DemoApplication [restartedMain] Starting DemoApplication on SUNAui-MacBookPro.local with PID 3376 (/Users/jj/Documents/works/board/target/classes started by jj in /Users/jj/Documents/works/board)
+baord_2019-12-04 19:08:04,585 DEBUG com.example.board.DemoApplication [restartedMain] Running with Spring Boot v2.2.1.RELEASE, Spring v5.2.1.RELEASE
+baord_2019-12-04 19:08:04,585 INFO com.example.board.DemoApplication [restartedMain] No active profile set, falling back to default profiles: default
+baord_2019-12-04 19:08:05,504 INFO org.apache.catalina.core.StandardService [restartedMain] Starting service [Tomcat]
+baord_2019-12-04 19:08:05,504 INFO org.apache.catalina.core.StandardEngine [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.27]
+baord_2019-12-04 19:08:05,631 INFO org.apache.jasper.servlet.TldScanner [restartedMain] At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+baord_2019-12-04 19:08:05,635 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [restartedMain] Initializing Spring embedded WebApplicationContext
+baord_2019-12-04 19:08:05,972 INFO org.apache.catalina.core.StandardService [restartedMain] Stopping service [Tomcat]
+baord_2019-12-04 19:08:05,989 ERROR org.springframework.boot.SpringApplication [restartedMain] Application run failed
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'springSecurityFilterChain' defined in class path resource [org/springframework/security/config/annotation/web/configuration/WebSecurityConfiguration.class]: Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [javax.servlet.Filter]: Factory method 'springSecurityFilterChain' threw exception; nested exception is java.lang.NoClassDefFoundError: org/springframework/security/oauth2/client/web/OAuth2LoginAuthenticationFilter
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiate(ConstructorResolver.java:645)
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiateUsingFactoryMethod(ConstructorResolver.java:475)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateUsingFactoryMethod(AbstractAutowireCapableBeanFactory.java:1338)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1177)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:557)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:517)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:323)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:222)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:321)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:202)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:310)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:202)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:879)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:878)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:550)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:141)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:747)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:397)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:315)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1226)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1215)
+	at com.example.board.DemoApplication.main(DemoApplication.java:10)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:49)
+Caused by: org.springframework.beans.BeanInstantiationException: Failed to instantiate [javax.servlet.Filter]: Factory method 'springSecurityFilterChain' threw exception; nested exception is java.lang.NoClassDefFoundError: org/springframework/security/oauth2/client/web/OAuth2LoginAuthenticationFilter
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:185)
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiate(ConstructorResolver.java:640)
+	... 26 common frames omitted
+Caused by: java.lang.NoClassDefFoundError: org/springframework/security/oauth2/client/web/OAuth2LoginAuthenticationFilter
+	at org.springframework.security.config.annotation.web.configurers.oauth2.client.OAuth2LoginConfigurer.init(OAuth2LoginConfigurer.java:477)
+	at org.springframework.security.config.annotation.web.configurers.oauth2.client.OAuth2LoginConfigurer.init(OAuth2LoginConfigurer.java:135)
+	at org.springframework.security.config.annotation.AbstractConfiguredSecurityBuilder.init(AbstractConfiguredSecurityBuilder.java:370)
+	at org.springframework.security.config.annotation.AbstractConfiguredSecurityBuilder.doBuild(AbstractConfiguredSecurityBuilder.java:324)
+	at org.springframework.security.config.annotation.AbstractSecurityBuilder.build(AbstractSecurityBuilder.java:41)
+	at org.springframework.security.config.annotation.web.builders.WebSecurity.performBuild(WebSecurity.java:292)
+	at org.springframework.security.config.annotation.web.builders.WebSecurity.performBuild(WebSecurity.java:79)
+	at org.springframework.security.config.annotation.AbstractConfiguredSecurityBuilder.doBuild(AbstractConfiguredSecurityBuilder.java:333)
+	at org.springframework.security.config.annotation.AbstractSecurityBuilder.build(AbstractSecurityBuilder.java:41)
+	at org.springframework.security.config.annotation.web.configuration.WebSecurityConfiguration.springSecurityFilterChain(WebSecurityConfiguration.java:104)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:154)
+	... 27 common frames omitted
+Caused by: java.lang.ClassNotFoundException: org.springframework.security.oauth2.client.web.OAuth2LoginAuthenticationFilter
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:382)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:349)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	... 42 common frames omitted
+baord_2019-12-04 19:08:48,202 INFO com.example.board.DemoApplication [restartedMain] Starting DemoApplication on SUNAui-MacBookPro.local with PID 3380 (/Users/jj/Documents/works/board/target/classes started by jj in /Users/jj/Documents/works/board)
+baord_2019-12-04 19:08:48,203 DEBUG com.example.board.DemoApplication [restartedMain] Running with Spring Boot v2.2.1.RELEASE, Spring v5.2.1.RELEASE
+baord_2019-12-04 19:08:48,204 INFO com.example.board.DemoApplication [restartedMain] No active profile set, falling back to default profiles: default
+baord_2019-12-04 19:08:49,161 INFO org.apache.catalina.core.StandardService [restartedMain] Starting service [Tomcat]
+baord_2019-12-04 19:08:49,162 INFO org.apache.catalina.core.StandardEngine [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.27]
+baord_2019-12-04 19:08:49,289 INFO org.apache.jasper.servlet.TldScanner [restartedMain] At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+baord_2019-12-04 19:08:49,292 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [restartedMain] Initializing Spring embedded WebApplicationContext
+baord_2019-12-04 19:08:49,955 INFO com.example.board.DemoApplication [restartedMain] Started DemoApplication in 2.04 seconds (JVM running for 2.444)
+baord_2019-12-04 19:09:36,578 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [http-nio-8888-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+baord_2019-12-04 19:09:36,818 INFO com.example.board.controller.KakaoController [http-nio-8888-exec-1] getToken responseCode : 401
+baord_2019-12-04 19:09:37,382 INFO com.example.board.controller.LoginController [http-nio-8888-exec-3] false
+baord_2019-12-04 19:09:42,028 INFO com.example.board.controller.KakaoController [http-nio-8888-exec-4] getToken responseCode : 401
+baord_2019-12-04 19:09:42,974 INFO com.example.board.controller.LoginController [http-nio-8888-exec-6] false
+baord_2019-12-04 19:09:43,619 INFO com.example.board.controller.KakaoController [http-nio-8888-exec-7] getToken responseCode : 401
+baord_2019-12-04 19:09:43,708 INFO com.example.board.controller.LoginController [http-nio-8888-exec-9] false
+baord_2019-12-04 19:10:16,487 INFO com.example.board.controller.LoginController [http-nio-8888-exec-1] false
+baord_2019-12-04 19:10:16,785 INFO com.example.board.controller.LoginController [http-nio-8888-exec-6] false
+baord_2019-12-04 19:11:20,658 INFO com.example.board.controller.KakaoController [http-nio-8888-exec-1] getToken responseCode : 200
+baord_2019-12-04 19:11:20,693 INFO com.example.board.controller.KakaoController [http-nio-8888-exec-1] S1CyHZx1jDA6A8v9AV_5Ge2izd7ZYrhcC2Oh2QopdXcAAAFu0GSLzA
+baord_2019-12-04 19:11:20,743 INFO com.example.board.controller.KakaoController [http-nio-8888-exec-1] getUserInfo responseCode : 200
+baord_2019-12-04 19:11:21,051 INFO com.example.board.controller.LoginController [http-nio-8888-exec-3] false
